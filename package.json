@@ -1,7 +1,6 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,9 +19,11 @@
     "nodemon": "^2.0.3"
   },
   "dependencies": {
+    "console-table": "^0.1.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.22.3"
-  }
+  },
+  "description": "### User Story ```AS A manager at an internet retail company I WANT a back end for my e-commerce website that uses the latest technologies SO THAT my company can compete with other e-commerce companies ```"
 }
