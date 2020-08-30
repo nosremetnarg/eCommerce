@@ -1,4 +1,12 @@
-# E-commerce Back End Starter Code
+![GitHub followers](https://img.shields.io/github/followers/nosremetnarg?label=GitHub%20Followers&logo=Github&?style=social)
+
+![Language](https://img.shields.io/github/languages/top/nosremetnarg/eCommerce)
+
+![Last commit](https://img.shields.io/github/last-commit/nosremetnarg/eCommerce)
+
+![jQuery](https://img.shields.io/badge/-jQuery-brightgreen) ![javascript](https://img.shields.io/badge/-javascript-green) ![node JS](https://img.shields.io/badge/-nodeJS-yellowgreen) ![inquirer](https://img.shields.io/badge/-inquirer-yellow) ![jest](https://img.shields.io/badge/-jest-yellow) ![coffee](https://img.shields.io/badge/-coffee-red) ![mySQL](https://img.shields.io/badge/-MySQL-red)
+
+***[Walkthrough video](https://drive.google.com/file/d/1LowTc2EOIGlN4VK2kwFt6BpdQ8C5kXF0/view)***
 
 ### User Story
 ```AS A manager at an internet retail company
